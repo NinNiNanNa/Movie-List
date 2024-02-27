@@ -1,0 +1,13 @@
+.title {
+  margin: 10px 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 200px;
+  white-space: nowrap;
+}
+.year {
+  color: #767676;
+}
