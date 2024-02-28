@@ -1,5 +1,5 @@
 .header {
-  background-color: transparent;
+  background: linear-gradient(to top, transparent 10%, #0b0b0b 100%);
   z-index: 5;
   position: fixed;
   width: 100%;
@@ -7,9 +7,9 @@
 
 .title {
   display: inline-block;
-  padding: 15px 0;
-  font-size: 25px;
-  font-weight: bold;
+  padding: 20px 0;
+  font-size: 30px;
+  font-family: "RESEGRG";
   color: #fff;
   text-decoration: none;
 }

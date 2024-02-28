@@ -18,8 +18,7 @@ Movie.propTypes = {
   id: propTypes.number.isRequired,
   coverImg: propTypes.string.isRequired,
   title: propTypes.string.isRequired,
-  summary: propTypes.string.isRequired,
-  genres: propTypes.arrayOf(propTypes.string).isRequired,
+  year: propTypes.number.isRequired,
 };
 
 export default Movie;
